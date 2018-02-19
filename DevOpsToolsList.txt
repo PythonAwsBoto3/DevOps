@@ -1,0 +1,17 @@
+https://blog.profitbricks.com/51-best-devops-tools-for-devops-engineers/
+
+https://stackoverflow.com/questions/25842718/is-ansible-a-replacement-for-a-ci-tool-like-hudson-jenkins
+
+https://chromatichq.com/blog/automated-servers-and-deployments-ansible-jenkins
+
+
+https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+
+
+https://blacksaildivision.com/    ansible
+
+http://linuxtechlab.com/ansible-tutorial-simple-commands/
+
+https://serversforhackers.com/c/an-ansible-tutorial
+
+
